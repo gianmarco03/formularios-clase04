@@ -1,0 +1,19 @@
+form{
+    width: 100%;
+    background-color: blue;
+    text-align: center;
+}
+
+body{
+    background-image: url(https://wallpaperaccess.com/full/36559.jpg);
+}
+
+input{
+    margin: 5px;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+footer{
+    color: white;
+}
